@@ -1,0 +1,14 @@
+c:\Users\Samsung\aula5\Exaula05\calculadora\bin\Debug\net8.0\calculadora.exe
+C:\Users\Samsung\aula5\Exaula05\calculadora\bin\Debug\net8.0\calculadora.deps.json
+C:\Users\Samsung\aula5\Exaula05\calculadora\bin\Debug\net8.0\calculadora.runtimeconfig.json
+c:\Users\Samsung\aula5\Exaula05\calculadora\bin\Debug\net8.0\calculadora.dll
+c:\Users\Samsung\aula5\Exaula05\calculadora\bin\Debug\net8.0\calculadora.pdb
+c:\Users\Samsung\aula5\Exaula05\calculadora\obj\Debug\net8.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Samsung\aula5\Exaula05\calculadora\obj\Debug\net8.0\calculadora.AssemblyInfoInputs.cache
+c:\Users\Samsung\aula5\Exaula05\calculadora\obj\Debug\net8.0\calculadora.AssemblyInfo.cs
+c:\Users\Samsung\aula5\Exaula05\calculadora\obj\Debug\net8.0\calculadora.csproj.CoreCompileInputs.cache
+c:\Users\Samsung\aula5\Exaula05\calculadora\obj\Debug\net8.0\calculadora.dll
+c:\Users\Samsung\aula5\Exaula05\calculadora\obj\Debug\net8.0\refint\calculadora.dll
+c:\Users\Samsung\aula5\Exaula05\calculadora\obj\Debug\net8.0\calculadora.pdb
+C:\Users\Samsung\aula5\Exaula05\calculadora\obj\Debug\net8.0\calculadora.genruntimeconfig.cache
+C:\Users\Samsung\aula5\Exaula05\calculadora\obj\Debug\net8.0\ref\calculadora.dll
